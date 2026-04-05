@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <theme>
+        <item name="theme_title">My Custom Icons</item>
+        <item name="theme_description">A brand new custom icon pack.</item>
+        <item name="theme_author">Me</item>
+    </theme>
+</resources>

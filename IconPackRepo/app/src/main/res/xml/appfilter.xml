@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- HOW TO ADD YOUR ICONS: -->
+    <!-- 1. Put your icon PNG files in app/src/main/res/drawable-nodpi/ -->
+    <!-- 2. Copy the line below and replace 'icon_placeholder' with your icon's file name -->
+    <!-- 3. Replace the component="ComponentInfo{...}" with the app you want to theme -->
+
+    <!-- Example: Google Chrome -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="icon_placeholder" />
+
+    <!-- Example: YouTube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity}" drawable="icon_placeholder" />
+</resources>
